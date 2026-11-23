@@ -48,3 +48,8 @@ section {
     background-color: var(--vibRed);
     color: var(--brownish2);
 }
+
+footer {
+    background-color: var(--brownish2);
+    color: var(--flesh);
+}
